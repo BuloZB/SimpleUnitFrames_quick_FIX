@@ -1,0 +1,31 @@
+commit a474cb4cb27e956c8df14d782736214079c2fe1a
+Author: Pneumatus <pneumatus@curseforge>
+Date:   Wed May 29 16:20:01 2019 +0100
+
+    Fix for class icons on targets being missing
+    Add config to enable PartyPet frames
+
+commit 42eb62ff159e20727fe4c2aaa03e6357c9a010f6
+Author: Pneumatus <pneumatus@curseforge>
+Date:   Tue May 28 12:55:03 2019 +0100
+
+    Use a ticker to refresh targettarget text overlays in lieu of anything we can hook
+
+commit 846a1d987ce36a7f21985e0fe5aecb90e7847e31
+Author: Pneumatus <pneumatus@curseforge>
+Date:   Tue May 28 08:59:12 2019 +0100
+
+    Add LibClassicMobHealth-1.0 to required-dependencies in pkgmeta
+
+commit 9ce4b77fda308fe3784ec4e1fa49d3ed4e3fd400
+Author: Pneumatus <pneumatus@curseforge>
+Date:   Tue May 28 08:39:13 2019 +0100
+
+    Remove defunct module
+
+commit 12e52308e0513aa448fafd0003196a1d1b63077f
+Author: Pneumatus <pneumatus@curseforge>
+Date:   Mon May 27 21:03:10 2019 +0100
+
+    Initial import
+
